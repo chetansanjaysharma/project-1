@@ -1,1 +1,1 @@
-<h2>git&github</h2>
+<h2>git & github</h2>
